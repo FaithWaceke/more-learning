@@ -1,4 +1,0 @@
-X
- welcome todt
-:wq
-
